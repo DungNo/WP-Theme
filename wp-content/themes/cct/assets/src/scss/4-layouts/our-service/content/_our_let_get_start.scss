@@ -1,0 +1,84 @@
+.border-let-get {
+  position: relative;
+  .img-let-get {
+    img {
+      width: 100%;
+      height: auto;
+      min-height: 300px;
+      vertical-align: middle;
+    }
+  }
+  .main-content {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translateX(-50%);
+    padding: 0 30px;
+    width: 100%;
+    .title-let-get {
+      margin-bottom: 24px;
+      margin-top: 5px;
+      h3 {
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 45px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #303030;
+        margin: 0;
+      }
+    }
+    .content-let-get {
+      margin-bottom: 75px;
+      p {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #707070;
+        margin: 0;
+      }
+    }
+    .button-let-get {
+      border-radius: 5px;
+      margin: auto;
+      width: 215px;
+      height: 60px;
+      background-color: #219ceb;
+      padding-left: 38px;
+      a {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 66px;
+        letter-spacing: 0em;
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1368px) {
+  .border-let-get .main-content {
+    position: unset;
+    top: unset;
+    left: unset;
+    transform: unset;
+    margin-top: 60px;
+    margin-bottom: -60px;
+  }
+  .border-let-get .main-content .content-let-get {
+    margin-bottom: 30px;
+  }
+  .border-let-get .main-content .button-let-get {
+
+    padding-left: unset;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  margin-bottom: -30px;
+}

@@ -1,0 +1,14 @@
+2021-07-24T13:38:23+00:00 CRITICAL Uncaught Error: Call to undefined function pll_languages_list() in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\core\core.php:182
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\components\header\header-1.php(60): cct_get_language_location()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#3 C:\xampp\htdocs\dungvd\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\header.php(19): get_template_part('components/head...')
+#5 C:\xampp\htdocs\dungvd\wp-content\themes\cct\header.php(18): cct_header()
+#6 C:\xampp\htdocs\dungvd\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\dungvd\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#8 C:\xampp\htdocs\dungvd\wp-includes\general-template.php(48):  in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\core\core.php on line 182
+
+2021-07-24T13:58:30+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\header.php on line 242
+

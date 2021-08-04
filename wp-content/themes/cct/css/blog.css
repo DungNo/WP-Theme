@@ -1,0 +1,266 @@
+.blogs2-inner span{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+
+    color: #999999;
+}
+.blogs2-inner span a{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    color: #303030;
+
+}
+.blogs2-inner h3{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+    /* or 164% */
+
+    padding: 21px 0;
+    /* /Text Color / 1 */
+
+    color: #303030;
+
+}
+.blogs2-inner a{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+
+    text-decoration-line: underline;
+    text-transform: uppercase;
+
+    /* /Text Color / 2 */
+
+    color: #707070;
+}
+.blogs2-inner{
+    padding-top: 16px;
+    padding-right: 46px;
+}
+
+.blogs3-inner1{
+    background-color: #9B5C8F;
+    position: relative;
+
+}
+.blogs3-inner{
+    position: relative;
+}
+.blogs3-title p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+}
+.blogs3-title{
+    position: absolute;
+    top:31.44%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+}
+.ads-title h2{
+    font-family: 'Anton', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    /* identical to box height, or 164% */
+
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+
+    /* /Neutral Colors / 3 */
+
+    color: #FFFFFF;
+}
+.blogs3-2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.explore{
+    width: 58.16%;
+    background: #219CEB;
+    padding: 10px 57px;
+}
+.blogs3-title a{
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+
+
+}
+.sale-ads1{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    width: 7.407%;
+    height: 19.7%;
+    background-color: #FFDF38;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%,50% 70%,0 100%);
+    /* /Text Color / 1 */
+
+    color: #303030;
+}
+.blogs3-1{
+    width: 25%;
+    padding: 14px 0;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 93% */
+
+    text-transform: uppercase;
+
+    /* /Text Color / 1 */
+
+    color: #303030;
+
+
+}
+.sale-text{
+    width: 75%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 214% */
+    padding: 0 8px;
+    text-transform: uppercase;
+
+}
+.sale-text h2{
+    letter-spacing: 2.2px;
+}
+.widget_media_image img{
+    width: auto;
+    height: auto;
+}
+.ads-title{
+    position: absolute;
+    top: 27%;
+    width: 37%;
+    left: 2%;
+    padding: 2px 28px;
+}
+.ads-title h2{
+    padding-bottom: 17px;
+    font-family: 'Anton', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    /* identical to box height, or 164% */
+
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    /* /Neutral Colors / 3 */
+
+    color: #FFFFFF;
+
+}
+.sale-ads{
+    display: flex;
+    background: #FFC803;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 27px 23px;
+    clip-path: polygon(0% 0%, 100% 0, 87% 49%, 98% 100%, 0% 100%);
+    width: 42%;
+}
+
+.blogs4{
+    position: relative;
+}
+.blogs4-inner{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.blogs4-inner span{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    text-transform: uppercase;
+
+    /* /Neutral Colors / 3 */
+
+    color: #FFFFFF;
+
+}
+.blogs4-inner h3{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+    /* or 164% */
+    text-align: center;
+
+
+
+    /* /Neutral Colors / 3 */
+
+    color: #FFFFFF;
+
+}
+.blogs4-inner a{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+
+    /* /Neutral Colors / 3 */
+
+    color: #FFFFFF;
+
+
+}

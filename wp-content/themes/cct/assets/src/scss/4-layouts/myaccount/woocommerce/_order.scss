@@ -1,0 +1,42 @@
+.woocommerce-orders-table {
+  margin: 0;
+
+  &__header {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: $color-title;
+    padding:14px 10px ;
+    text-align :center;
+  }
+  &__cell {
+    font-size: 18px;
+    line-height: 34px;
+    color: $color-description;
+    padding:5px 10px;
+    text-align :center;
+    background: $color-white;
+    @media ( max-width: 768px) {
+      padding:10px 15px;
+      &:before {
+        color: $color-title;
+      }
+    }
+    a {
+      color:  $color-phone-text;
+      text-decoration: none;
+      @media ( max-width: 768px) {
+        padding:3px 10px;
+      }
+    }
+  }
+  &__cell-order-actions {
+    a {
+      font-size: 18px;
+      line-height: 27px;
+      color: $color-white;
+      background: $color-primary;
+      border-radius: 5px;
+    }
+  }
+}

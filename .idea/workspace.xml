@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac570ee9-a22e-4295-9a8f-b1a6292b9e41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ubzZDhVmlGQZNrN8jP5YK7H7Es" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/cct/woocommerce" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dungvd\wp-content\themes\cct\assets\src\scss\4-layouts\product" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac570ee9-a22e-4295-9a8f-b1a6292b9e41" name="Default Changelist" comment="" />
+      <created>1624949130398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624949130398</updated>
+      <workItem from="1624949134339" duration="79000" />
+      <workItem from="1625073333782" duration="322000" />
+      <workItem from="1625075225954" duration="702000" />
+      <workItem from="1625189873545" duration="2410000" />
+      <workItem from="1625449066685" duration="6402000" />
+      <workItem from="1625499713351" duration="5301000" />
+      <workItem from="1625539915205" duration="4768000" />
+      <workItem from="1625545447047" duration="99000" />
+      <workItem from="1625552850211" duration="4112000" />
+      <workItem from="1625622836972" duration="2056000" />
+      <workItem from="1625625897307" duration="6978000" />
+      <workItem from="1625708031158" duration="14001000" />
+      <workItem from="1625801599923" duration="6425000" />
+      <workItem from="1626072866402" duration="982000" />
+      <workItem from="1626281783563" duration="2216000" />
+      <workItem from="1626316204135" duration="4176000" />
+      <workItem from="1626365457137" duration="6946000" />
+      <workItem from="1626409619586" duration="16890000" />
+      <workItem from="1626617952746" duration="9249000" />
+      <workItem from="1626659612652" duration="21270000" />
+      <workItem from="1626799144724" duration="1897000" />
+      <workItem from="1626835892083" duration="17469000" />
+      <workItem from="1626920773274" duration="26347000" />
+      <workItem from="1627133795747" duration="12510000" />
+      <workItem from="1627225994849" duration="9499000" />
+      <workItem from="1627268015474" duration="21252000" />
+      <workItem from="1627401723753" duration="16359000" />
+      <workItem from="1627611292882" duration="27387000" />
+      <workItem from="1627814922378" duration="1162000" />
+      <workItem from="1627816127000" duration="142000" />
+      <workItem from="1627816344399" duration="745000" />
+      <workItem from="1627873459495" duration="25767000" />
+      <workItem from="1627974941229" duration="16886000" />
+      <workItem from="1628005983923" duration="3818000" />
+      <workItem from="1628048598514" duration="3600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="230" width="597" height="274" key="#Notifications" timestamp="1627815938857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="230" width="597" height="274" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1627815938857" />
+    <state x="412" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627876682271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1627876682271" />
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1627284093844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1627284093844" />
+    <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1627467361059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1627467361059" />
+    <state x="245" y="118" key="FileChooserDialogImpl" timestamp="1627816062121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1627816062121" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1627816094755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627816094755" />
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626418902107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1626418902107" />
+    <state x="174" y="0" width="613" height="728" key="find.popup" timestamp="1627990960242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="174" y="0" width="613" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1627990960242" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1627975852143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1627975852143" />
+    <state x="389" y="72" width="670" height="676" key="search.everywhere.popup" timestamp="1626851389832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="72" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1626851389832" />
+  </component>
+</project>

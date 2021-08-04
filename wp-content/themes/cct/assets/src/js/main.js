@@ -1,0 +1,13 @@
+// js
+import "./layouts/header";
+import "./layouts/footer";
+import "./layouts/single";
+import "./layouts/blog";
+import "./layouts/categories";
+import "./layouts/blog/about-us/accordion";
+import "./layouts/blog/about-us/testimonial";
+import "./layouts/single/jquery.min";
+import "./layouts/faqs";
+// scss
+import "./../scss/main.scss";
+// img

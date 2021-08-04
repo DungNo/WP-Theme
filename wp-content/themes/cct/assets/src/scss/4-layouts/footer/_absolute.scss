@@ -1,0 +1,7 @@
+.footer-absolute {
+	.inner {
+		@extend %textCenter;
+		padding: 30px 0;
+		color: #BCBCBC;
+	}
+}

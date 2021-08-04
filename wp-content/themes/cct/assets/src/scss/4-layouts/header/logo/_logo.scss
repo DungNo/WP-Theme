@@ -1,0 +1,25 @@
+.logo {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 23px 0;
+}
+.logo-main {
+  max-width: 1170px;
+  box-sizing: border-box;
+  padding: 0 15px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin: auto;
+  display: block;
+}
+.logo-main__left {
+  display: inline-block;
+  width: 210px;
+  float: left;
+}
+.logo-main__left__logo {
+  display: inline-block;
+}
+.logo-main__left__logo img {
+  vertical-align: middle;
+}

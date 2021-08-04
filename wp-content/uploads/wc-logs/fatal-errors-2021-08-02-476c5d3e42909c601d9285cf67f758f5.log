@@ -1,0 +1,30 @@
+2021-08-02T16:53:35+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper/elementor/product-carousel' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\inc\func\elementor.php on line 76
+
+2021-08-02T16:55:18+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper/elementor/product-carousel' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\inc\func\elementor.php on line 76
+
+2021-08-02T17:14:40+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper/elementor/product-carousel' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\inc\func\elementor.php on line 76
+
+2021-08-02T17:16:05+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper/elementor/product-carousel' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\inc\func\elementor.php on line 76
+
+2021-08-02T17:16:10+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper/elementor/product-carousel' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\inc\func\elementor.php on line 76
+
+2021-08-02T17:20:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\product-carousel.php:206
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): CCT_Elementor_Widget_Product_Carousel->render()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(565): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 C:\xampp\ in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\product-carousel.php on line 206
+
+2021-08-02T17:21:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\product-carousel.php:206
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): CCT_Elementor_Widget_Product_Carousel->render()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(565): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(630): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\db.php(208): in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\product-carousel.php on line 206
+

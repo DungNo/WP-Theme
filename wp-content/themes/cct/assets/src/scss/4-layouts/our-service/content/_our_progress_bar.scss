@@ -1,0 +1,40 @@
+.border-progress {
+  position: relative;
+  .title-progress-bar {
+    margin-bottom: 10px;
+    .elementor-title {
+      text-transform: uppercase;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 27px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #303030;
+    }
+    .number-progress {
+      float: right;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 27px;
+      letter-spacing: 0em;
+      text-align: right;
+      color: #303030;
+    }
+  }
+  .elementor-progress-bar {
+    position: relative;
+    height: 3px;
+    .progress-icon {
+      position: absolute;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background-color: #fff;
+      right: 0;
+      top: -6px;
+      box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+    }
+  }
+}

@@ -1,0 +1,135 @@
+.img-bg-last {
+  position: relative;
+  img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+  .cct-title-last-our {
+    position: absolute;
+    width: 74.1971%;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    .item-title-last {
+      margin-bottom: 50px;
+      h3 {
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 60px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #303030;
+        max-width: 481px;
+        margin: auto;
+      }
+    }
+  }
+}
+.form-css {
+  display: flex;
+  position: relative;
+  .item-placeholder {
+    width: 100%;
+    input {
+      height: 80px;
+      border: 1px solid #eee;
+      width: 100%;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #bcbcbc;
+      background-color: #fff;
+      padding-left: 80px;
+      box-sizing: border-box;
+      box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+  }
+  .item-button-last {
+    input {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      width: 146px;
+      height: 60px;
+      background: #219ceb;
+      border-radius: 5px;
+      color: #fff;
+      border: none;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 27px;
+      letter-spacing: 0em;
+      text-align: center;
+    }
+  }
+  .item-icon-mail {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+    img {
+      width: 30px;
+      height: 30px;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .img-bg-last .cct-title-last-our {
+    width: 100%;
+    padding: 0 30px;
+  }
+  .img-bg-last .cct-title-last-our .item-title-last {
+    margin-bottom: 20px;
+  }
+  .form-css .item-placeholder input {
+    padding-left: 80px;
+  }
+  .img-bg-last > img {
+    min-height: 300px;
+  }
+  .img-bg-last .cct-title-last-our .item-title-last h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .form-css .item-placeholder input {
+    font-size: 16px;
+  }
+  .form-css .item-button-last input {
+    width: 110px;
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .form-css .item-icon-mail {
+    left: 15px;
+  }
+  .img-bg-last .cct-title-last-our {
+    padding: 0 20px;
+  }
+  .form-css .item-placeholder input {
+    padding-left: 60px;
+  }
+  .form-css {
+    .item-placeholder {
+      input {
+        letter-spacing: -1px !important;
+      }
+    }
+  }
+}
+@media screen and (max-width: 374px) {
+  .form-css {
+    .item-placeholder {
+      input {
+        font-size: 0 !important;
+      }
+    }
+  }
+}

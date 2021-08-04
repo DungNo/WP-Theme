@@ -1,0 +1,52 @@
+2021-08-03T07:35:15+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php:11
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 11
+
+2021-08-03T07:35:36+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on bool in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php:14
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 14
+
+2021-08-03T07:59:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_product_id_by_sku(), 0 passed in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 29 and exactly 1 expected in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php:648
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php(29): wc_get_product_id_by_sku()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 648
+
+2021-08-03T08:01:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_product_id_by_sku(), 0 passed in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 29 and exactly 1 expected in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php:648
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php(29): wc_get_product_id_by_sku()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 648
+
+2021-08-03T08:01:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_product_id_by_sku(), 0 passed in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 29 and exactly 1 expected in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php:648
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php(29): wc_get_product_id_by_sku()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 648
+
+2021-08-03T08:03:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php on line 29 and at least 1 expected in C:\xampp\htdocs\dungvd\wp-includes\post.php:2302
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\woocommerce\single-product.php(29): get_post_meta()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-includes\post.php on line 2302
+

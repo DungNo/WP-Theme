@@ -1,0 +1,27 @@
+.page-title-bar {
+  text-align: center;
+  background-color: #0ca8c9;
+  .title .page-title span {
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .cct-breadcrumbs {
+    li {
+      display: inline-block;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #FFFFFF;
+    }
+    i {
+      padding: 0 5px;
+      display: inline-block;
+      font-size: 14px;
+      line-height: 27px;
+      color: #FFFFFF;
+    }
+  }
+}

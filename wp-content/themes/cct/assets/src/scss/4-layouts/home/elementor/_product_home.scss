@@ -1,0 +1,101 @@
+.cct-elementor-product-home{
+    .item-content{
+        .item-title-price{
+            align-items: center;
+            .item-title-product{
+                max-width: 160px;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 36px;
+                line-height: 50px;
+                color: $color-title;
+            }
+            .item-price{
+                margin-left: 35px;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 18px;
+                line-height: 27px;
+                text-align: center;
+                border-radius: 30px;
+                width: 80px;
+                height: 42px;
+                padding: 8px 20px;
+            }
+        }
+        .item-title-detail{
+            font-style: normal;
+            font-weight: 400;
+            font-size: 22px;
+            line-height: 50px;
+            color: $color-title;
+        }
+        .item-desc-product{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 34px;
+            color: $color-description;
+            margin-top: 23px;
+        }
+        .item-button-product{
+            margin-top: 50px;
+            max-width: 170px;
+            height: 60px;
+            border-radius: 5px;
+            padding: 16px 29px 16px 29px;
+            margin-bottom: 20px;
+            a{
+                font-style: normal;
+                font-weight: 600;
+                font-size: 18px;
+                line-height: 27px;
+                color: $color-white;
+
+            }
+        }
+    }
+
+
+}
+
+.product-container{
+    padding-left: calc(50% - 790px);
+}
+.product-container-right{
+    padding-right: calc(50% - 790px);
+}
+
+@media (max-width: 1470px) {
+    .cct-elementor-product-home{
+        .item-content{
+            .item-title-price{}
+            .item-desc-product{
+                font-size: 16px;
+                line-height: 28px;
+            }
+            .item-button-product{
+                margin-top: 20px;
+            }
+        }
+    }
+}
+@media (max-width: 1199px) {
+    .cct-elementor-product-home{
+        .item-content{
+            .item-title-price{}
+            .item-title-detail {
+                font-size: 20px;
+                line-height: 28px;
+            }
+            .item-desc-product{
+                font-size: 15px;
+                line-height: 28px;
+                margin-top: 10px;
+            }
+            .item-button-product{
+                margin-top: 20px;
+            }
+        }
+    }
+}

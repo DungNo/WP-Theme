@@ -1,0 +1,32 @@
+2021-07-29T10:37:38+00:00 CRITICAL Uncaught Error: Call to undefined method CCT_Helper::get_registered_sidebars() in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\dungvd\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\dungvd\wp-admin\edit-form-advanced.php(688): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\dungvd\wp-admin\post-new.php(75): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-07-29T10:37:59+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php:361
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php(59): Apr_Core_Taxonomy_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\dungvd\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Metabox->saveCategory(40, 40, 'post_translatio...')
+#2 C:\xampp\htdocs\dungvd\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\dungvd\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\dungvd\wp-includes\taxonomy.php(2564): do_action('created_term', 40, 40, 'post_translatio...')
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\polylang\include\translated-object.php(192): wp_insert_term('pll_61028507326...', 'post_translatio...', Array)
+#6 C:\xampp\htdocs\dungvd\wp-content\plugins\polylang\admin\admin-filters-post-base.php(62): PLL_Translated_Obje in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php on line 361
+
+2021-07-29T10:38:14+00:00 CRITICAL Uncaught Error: Call to undefined method CCT_Helper::get_registered_sidebars() in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\dungvd\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\dungvd\wp-admin\edit-form-advanced.php(688): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\dungvd\wp-admin\post-new.php(75): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+

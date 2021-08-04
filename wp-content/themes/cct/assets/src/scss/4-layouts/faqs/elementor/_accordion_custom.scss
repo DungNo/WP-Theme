@@ -1,0 +1,59 @@
+.cct_widget_accordion_custom {
+  .cct-accordion-item {
+    border: 1px solid $color-border-form;
+    border-radius: 10px;
+    background: $color-white;
+    &:not(:last-child) {
+      margin-bottom: 30px;
+    }
+    .cct-tab-title {
+      padding: 22px 32px 22px 38px;
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 33px;
+      color: $color-title;
+
+      .cct-accordion-icon {
+        .cct-accordion-icon-opened {
+          display: none;
+        }
+        .open {
+          display: block;
+        }
+        .close {
+          display: none;
+        }
+      }
+
+      .cct-accordion-icon-left {
+        float: left;
+        text-align: left;
+
+      }
+
+      .cct-accordion-icon-right {
+        float: right;
+        text-align: right;
+      }
+    }
+
+    .line {
+      border-top: 1px solid $color-border-line;
+      margin: 0 30px;
+
+    }
+
+    .cct-tab-content {
+
+      padding: 23px 30px 23px 38px;
+      font-size: 18px;
+      line-height: 34px;
+      color: $color-description;
+      display: none;
+      p {
+        margin: 0;
+      }
+    }
+
+  }
+}

@@ -1,0 +1,67 @@
+.lrewards-elementor-text .item-content {
+  padding-left: 15px; }
+  .lrewards-elementor-text .item-content .title_label {
+    font-family: 'Poppins',Sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.2em;
+    color: #0252B4;
+    padding-top: 35px;
+    padding-bottom: 12px; }
+  .lrewards-elementor-text .item-content .main-title {
+    font-family: 'Poppins',Sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #303030;
+    padding-right: 54px;
+    padding-bottom: 22px; }
+
+.lrewards-elementor-text-des .item-content_des {
+  padding-left: 15px; }
+  .lrewards-elementor-text-des .item-content_des .item-desc {
+    font-family: 'Poppins',Sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 34px;
+    color: #707070; }
+
+.lrewards-elementor-image .lrewards-inner_image .item-image {
+  margin-left: -10px;
+  margin-top: -44px; }
+
+.lrewards-button-wrapper {
+  padding: 26px 17px; }
+  .lrewards-button-wrapper .lrewards-button-link {
+    padding: 17px 30px; }
+  .lrewards-button-wrapper .lrewards-button-content-wrapper .lrewards-button-text {
+    font-family: 'Poppins',Sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF; }
+
+.lrewards-elementor-text-image-option .lrewards-inner {
+  border: 1px solid #ECF2FF;
+  box-sizing: border-box;
+  border-radius: 10px; }
+  .lrewards-elementor-text-image-option .lrewards-inner .item-image-option {
+    height: 70px;
+    text-align: center; }
+  .lrewards-elementor-text-image-option .lrewards-inner .item-content-option {
+    text-align: center;
+    padding-top: 42px; }
+    .lrewards-elementor-text-image-option .lrewards-inner .item-content-option .main-title {
+      font-family: 'Poppins',Sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #303030; }
+
+/*# sourceMappingURL=style1.css.map */

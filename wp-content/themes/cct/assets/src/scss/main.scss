@@ -1,0 +1,43 @@
+// Settings
+@import "0-settings/settings";
+// Settings
+@import "3-utilities/grid";
+// Tools
+@import "1-tools/tools";
+// Normalize
+@import "2-normalize/normalize";
+// Utilities
+@import "3-utilities/animations";
+@import "3-utilities/grid";
+// Fonts
+@import "./../library/fonts/font.css";
+// Header
+@import "4-layouts/header/header";
+// Layouts
+@import "4-layouts/posts/meta";
+@import "4-layouts/posts/pagination";
+@import "4-layouts/header/nav/navigation";
+@import "4-layouts/form/form-sign-up";
+// Home
+@import "4-layouts/home/home";
+// Product
+@import "4-layouts/product/product";
+// Blog
+@import "4-layouts/blog/blog";
+// Our Service
+@import "4-layouts/our-service/our_service";
+// Footer
+@import "4-layouts/footer/footer";
+@import "4-layouts/About us/image";
+@import "4-layouts/About us/text";
+@import "4-layouts/About us/description";
+@import "4-layouts/About us/text-image";
+@import "4-layouts/About us/text-accordion";
+@import "4-layouts/About us/testimonial";
+// Contactus
+@import "4-layouts/contactus/contactus";
+@import "4-layouts/faqs/faqs";
+//myaccount
+@import "4-layouts/myaccount/myaccount";
+// Product Category
+@import "4-layouts/product-category/product-category";

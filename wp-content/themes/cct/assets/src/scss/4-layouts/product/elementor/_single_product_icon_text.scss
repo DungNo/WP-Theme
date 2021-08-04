@@ -1,0 +1,41 @@
+.cct-elementor-single-product-icon-text{
+    .item-content{
+        width: 100%;
+        display: flex;
+        padding: 27px 30px 27px 40px;
+        .theme-image{
+            padding-top: 15px;
+            width: 70px;
+            height: 70px;
+            .img{
+                width: 70px;
+                height: 70px;
+            }
+        }
+        .item-content-inner{
+            padding-left: 50px;
+            width: calc(100% - 70px);
+            .item-content-inner-title{
+                h1{
+                    margin: 0;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 22px;
+                    line-height: 33px;
+                    letter-spacing: 0.01em;
+                    color: $color-title;
+                }
+            }
+            .item-content-inner-desc{
+                p{
+                    margin: 0;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 34px;
+                    color: $color-description;
+                }
+            }
+        }
+    }
+}

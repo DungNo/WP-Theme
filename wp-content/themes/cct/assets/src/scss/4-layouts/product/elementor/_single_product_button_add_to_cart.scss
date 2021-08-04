@@ -1,0 +1,11 @@
+.buttom-buy-now{
+    font-family: $body_font;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    color: $color-white;
+    :hover{
+        cursor: pointer;
+    }
+}

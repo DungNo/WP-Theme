@@ -1,0 +1,48 @@
+.title-single-page{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.arrow-breadcrumbs{
+    list-style: none;
+    padding-bottom: 4.42vw;
+
+}
+.page_name{
+    text-align: center;
+    padding-top: 78px ;
+}
+.arrow-breadcrumbs li {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.arrow-breadcrumbs li a {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.arrow-breadcrumbs{
+    display:flex;
+    justify-content: center;
+}
+.arrow-breadcrumbs li span{
+    padding-left: 3px;
+}

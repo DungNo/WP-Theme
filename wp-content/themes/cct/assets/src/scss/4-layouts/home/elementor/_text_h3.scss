@@ -1,0 +1,23 @@
+.cct-elementor-text-h3{
+    text-align: center;
+    .item-content{
+        h3{
+            margin: 0;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 40px;
+            line-height: 45px;
+            text-align: center;
+            color: $color-title;
+        }
+        p{
+
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 34px;
+            text-align: center;
+            color: $color-description;
+        }
+    }
+}

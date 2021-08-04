@@ -1,0 +1,26 @@
+2021-07-19T04:32:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\footer.php:128
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\footer.php(5): cct_footer_area()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#3 C:\xampp\htdocs\dungvd\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#4 C:\xampp\htdocs\dungvd\wp-content\themes\cct\index.php(8): get_footer()
+#5 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\footer.php on line 128
+
+2021-07-19T04:32:42+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\footer.php:128
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\themes\cct\footer.php(5): cct_footer_area()
+#1 C:\xampp\htdocs\dungvd\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dungvd\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#3 C:\xampp\htdocs\dungvd\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#4 C:\xampp\htdocs\dungvd\wp-content\themes\cct\404.php(12): get_footer()
+#5 C:\xampp\htdocs\dungvd\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\dungvd\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\dungvd\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\dungvd\wp-content\themes\cct\inc\modules\footer.php on line 128
+

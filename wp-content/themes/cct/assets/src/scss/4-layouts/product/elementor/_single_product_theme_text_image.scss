@@ -1,0 +1,37 @@
+.cct-elementor-single-product-theme-text-image{
+    .item-content{
+
+        padding: 50px 40px;
+        .theme-title{
+            h1{
+                margin: 0;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 36px;
+                line-height: 36px;
+                color: $color-title;
+            }
+        }
+        .theme-desc{
+            padding-top: 20px;
+            p{
+                margin: 0;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 34px;
+                color: $color-description;
+
+            }
+        }
+        .theme-image{
+            position: relative;
+            .theme-image-icon{
+                position: absolute;
+                width: 17%;
+                height: auto;
+                bottom: 0;
+            }
+        }
+    }
+}

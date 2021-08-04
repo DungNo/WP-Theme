@@ -1,0 +1,41 @@
+.woocommerce-account {
+  .site {
+    background: #FAFBFD;
+    .cct-page {
+      margin-bottom: 100px;
+      @media ( max-width: 1199px) {
+        margin-bottom: 70px;
+      }
+      @media ( max-width: 767px) {
+        margin-bottom: 50px;
+      }
+      .woocommerce {
+        @import "woocommerce/navigation";
+        .woocommerce-MyAccount-content {
+          background: $color-white;
+          padding: 15px 40px;
+          border: 1px solid $color-border-form;
+          border-radius: 20px;
+          @media ( max-width: 1199px) {
+            padding: 15px;
+          }
+          @media ( max-width: 991px) {
+            margin-top: 30px;
+            float: left;
+            width: 100%;
+          }
+          @import "woocommerce/dashboard";
+          @import "woocommerce/order";
+          @import "woocommerce/view_order";
+          @import "woocommerce/downloads";
+          @import "woocommerce/addresses";
+          @import "woocommerce/account_details";
+          @import "woocommerce/edit_addresses";
+
+        }
+        @import "woocommerce/login";
+      }
+    }
+
+  }
+}

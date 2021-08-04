@@ -1,0 +1,7 @@
+.dl-trigger {
+	@media (min-width:992px) {
+		display: none;
+	}
+	display: block;
+	line-height: 50px;
+}

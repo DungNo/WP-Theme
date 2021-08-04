@@ -1,0 +1,326 @@
+2021-07-26T03:47:00+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:01+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:03+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:05+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:18+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:28+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:39+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:41+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:48:44+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:49:09+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:49:43+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:49:44+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:50:26+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:50:40+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:51:05+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:51:08+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:07+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:12+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:30+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:32+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:35+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:44+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:52:53+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:53:02+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T03:54:03+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T04:02:57+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:107
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-cont in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 107
+
+2021-07-26T04:06:34+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Aja in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 47
+
+2021-07-26T04:08:24+00:00 CRITICAL Uncaught Error: Class 'Group_Control_Image_Size' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Aja in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 47
+
+2021-07-26T04:11:19+00:00 CRITICAL Uncaught Error: Class 'Scheme_Typography' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:551
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Modu in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 551
+
+2021-07-26T04:12:17+00:00 CRITICAL Uncaught Error: Class 'Scheme_Typography' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:551
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Modu in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 551
+
+2021-07-26T04:31:28+00:00 CRITICAL Uncaught Error: Class 'Con_Typography' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:552
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-content\plugin in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 552
+
+2021-07-26T04:36:04+00:00 CRITICAL Uncaught Error: Class 'Con_Typography' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:552
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1951): CCT_Elementor_Widget_Slides_Carousel->_register_controls()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(461): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(170): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(267): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(2040): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(987): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\dungvd\wp-content\plugin in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 552
+
+2021-07-26T04:54:24+00:00 CRITICAL Uncaught Error: Class 'Control_Media' not found in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php:502
+Stack trace:
+#0 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): CCT_Elementor_Widget_Slides_Carousel->render()
+#1 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(565): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\widget-base.php(690): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\element-base.php(736): Elementor\Widget_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\includes\base\element-base.php(736): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\base\document.php(832): Elementor\Element_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\dungvd\wp-content\plugins\elementor\core\base\docum in C:\xampp\htdocs\dungvd\wp-content\plugins\cct-helper\elementor\slides-carousel.php on line 502
+

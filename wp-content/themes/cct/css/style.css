@@ -1,0 +1,333 @@
+@import "header.css";
+@import "banner.css";
+@import "footer.css";
+@import "blog.css";
+@import "blog-detail.css";
+@import "style1.css";
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary{
+    float: unset;
+    width: 100%;
+}
+.footer-widget{
+    clear: both;
+}
+.entry-summary{
+    margin: auto;
+    max-width: 1268px;
+    text-align: center;
+    padding: 71px 0;
+}
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images{
+    width: 100%;
+    height: auto;
+}
+.product_title{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 45px;
+    color: #303030;
+}
+.woocommerce-product-details__short-description p{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 34px;
+    color:#707070
+}
+.meta-product{
+    clear: both;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_view{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.view-demo a{
+    padding: 18px 29px;
+}
+.link-download{
+    margin-left: 20px;
+}
+.link-download a{
+    padding: 18px 29px;
+}
+.buy-now a{
+    padding: 18px 29px;
+}
+.option-product{
+    background-color: #303030;
+}
+.text-product--option {
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sale-price-product{
+    text-align: center;
+    width: 192px;
+    height: 192px;
+    margin: auto;
+    background-color: #82B440;
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgb(15 28 63)
+}
+.option-sale{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 135px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+.dollar{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+.sale-price-product{
+    position: relative;
+}
+.option-sale{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.dollar{
+    position: absolute;
+}
+.purchase-now a{
+    padding: 16px 26px  ;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #2C2C2C;
+}
+.purchase-now {
+    padding: 70px 0;
+    padding-bottom: 96px;
+
+}
+.detail-meta{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+.document{
+    border: 1px solid #707070;
+    box-sizing: border-box;
+}
+.premium{
+    border: 1px solid #707070;
+    box-sizing: border-box;
+    margin: 0 4.167vw;
+}
+.video{
+    border: 1px solid #707070;
+    box-sizing: border-box;
+}
+.premium-option{
+    padding: 1.615vw 1.5625vw;
+}
+.document-option{
+    padding:  1.615vw 1.5625vw;
+}
+.video-option{
+    padding:  1.615vw 1.5625vw;
+}
+.detail-meta .text_meta{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #707070;
+
+}
+.text_meta{
+    padding-left: 1.5625vw;
+}
+.fa-headphones-alt{
+}
+.arrow-inner{
+    padding: 0 0;
+}
+.entry-summary.product_title  {
+    padding-bottom: 25px;
+}
+.arrow-breadcrumbs{
+    padding-bottom: 59px;
+}
+.entry-title{
+    padding-bottom: 0;
+}
+.page_breadcrumd{
+    padding-bottom: 25px;
+}
+.woocommerce-product-details__short-description{
+    padding: 25px 0;
+}
+.woocommerce-product-gallery__wrapper{
+    padding: 23px 0;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: unset;
+}
+.buy-now p{
+    padding: 16px 24px;
+
+}
+.buy-now{
+    padding-top: 29px;
+
+}
+.arrow_text{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #2C2C2C;
+    padding: 16px 20px;
+
+}
+.purchase-now form{
+    display: flex;
+}
+.woocommerce div.product form.cart .button{
+    margin: auto;
+}
+.detail-meta i{
+    font-size: 45px;
+    color: #707070;
+}
+@media (max-width: 1270px) {
+    .detail-meta{
+        display: block;
+    }
+    .document{
+        display: flex;
+        border: none;
+
+    }
+    .document-option{
+        margin: auto;
+        border: 1px solid #707070;
+        width: 450px;
+        height: 75px;
+    }
+    .premium{
+        margin: 0;
+        display: flex;
+        border: none;
+
+    }
+    .premium-option{
+        margin: auto;
+        border: 1px solid #707070;
+        width: 450px;
+        height: 75px;
+    }
+    .video{
+        display: flex;
+        border: none;
+
+    }
+    .video-option{
+        margin: auto;
+        border: 1px solid #707070;
+        width: 450px;
+        height: 75px;
+    }
+    .text_meta{
+        text-align: center;
+    }
+    .buy-now .cart button{
+        padding-right: 0;
+    }
+
+}
+@media (max-width: 768px) {
+
+    .text-product--option{
+        font-size: 4.859vw;
+    }
+    .document-option{
+        width: 350px;
+        height: 50px;
+    }
+    .premium-option{
+        width: 350px;
+        height: 50px;
+    }
+    .video-option{
+        width: 350px;
+        height: 50px;
+    }
+    .detail-meta .text_meta{
+        font-size: 18px;
+        text-align: center;
+    }
+    .detail-meta i{
+        font-size: 35px;
+    }
+    .entry-summary{
+        padding: 0 30px;
+    }
+    .meta-product{
+        display: block;
+    }
+    .link-download{
+        margin-left: 0;
+    }
+    .buy-now button{
+        padding: 0;
+        width: 100%;
+    }
+    .text_view{
+        display: block;
+    }
+    .buy-now .cart button{
+        padding: 0;
+    }
+    .view-demo{
+        margin-bottom: 30px;
+    }
+}
+

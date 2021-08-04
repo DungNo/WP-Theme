@@ -1,0 +1,36 @@
+.products-container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-top: 100px;
+  .product-detail-content {
+    width: 75%;
+    display: inline-block;
+    .onsale {
+      top: 0.5em;
+      left: 0.5em;
+    }
+    .woocommerce-tabs {
+      padding: 0 15px;
+    }
+  }
+  .cct-sidebar {
+    float: right;
+  }
+  .related {
+    h2 {
+      padding-left: 15px;
+      margin-bottom: 30px;
+    }
+
+  }
+}
+
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images {
+  width: 50%;
+  padding: 0 15px;
+}
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+  float: left;
+  width: 50%;
+  padding: 0 15px;
+}
